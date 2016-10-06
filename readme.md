@@ -1,0 +1,1 @@
+This project is an example of how to setup LESS and SCSS in visual studio project.
